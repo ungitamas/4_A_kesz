@@ -1,0 +1,33 @@
+---------------------------------------------------
+A főoldal jobb oldali oszlopának szövege:
+---------------------------------------------------
+Sulis Fogadó – Itt a helyed 
+Fogadónk 1492-ben nyitotta meg kapuit Az alábbi ikonokra kattintva bővebb információt kaphat szolgáltatásainkról.
+
+--------------------------------------------------
+A beillesztendő HTML-kód:
+--------------------------------------------------
+<img src="etterem.png" class="icon mt-5" id="narancs_ragyogas">
+<p class="kozepre">Étterem</p>
+<img src="szalloda.png" class="icon mt-5" id="zold_ragyogas">
+<p class="kozepre">Szálloda</p>
+
+--------------------------------------------------
+A etterem.html szövege:
+--------------------------------------------------
+Étterem szolgáltatás
+Nálunk a gasztronómiai élményeké a főszerep. Ételeinket szenvedéllyel és szakértelemmel készítjük, hogy minden falat felejthetetlen legyen. Az éttermünkben kínált fogások a legfrissebb alapanyagokból készülnek, helyi termelők termékeivel kiegészítve, hogy Ön mindig a legjobbat kapja.
+
+--------------------------------------------------
+A szalloda.html szövege:
+--------------------------------------------------
+Szálloda szolgáltatás
+Üdvözöljük a Hotel Belle Époque-ban, ahol a múlt eleganciája találkozik a modern kényelemmel! 
+Szállodánk a város szívében helyezkedik el, közel a főbb látványosságokhoz és üzleti negyedhez, így ideális választás mind üzleti utazók, mind turisták számára.
+További szolgáltatásaink:
+Asztalfoglalás
+Zárt parkoló
+Játszótér
+Tollaslabda
+Események rendezése
+Lovaglás
